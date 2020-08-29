@@ -1,0 +1,13 @@
+{
+    "name": "atha/cola-php",
+    "description": "Just a simple php code",
+    "keywords": ["php", "mvc", "micro-framework", "mini-framework", "framework"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ]
+}
